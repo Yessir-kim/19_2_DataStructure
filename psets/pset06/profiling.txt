@@ -1,0 +1,52 @@
+Enter the number of max entries to sort: 1000
+The maximum sample data size is 1000
+
+	insertionSort(): already sorted - best case.
+	Data will NOT be randomized before use.
+         n	 repetitions	   sort(sec)
+       500	      399794	    0.000003
+       600	      366285	    0.000003
+       700	      400992	    0.000002
+       800	      362389	    0.000003
+       900	      318586	    0.000003
+      1000	      290138	    0.000003
+
+	insertionSort(): randomized - average case.
+	Randomized Data will be used during sorting.
+         n	 repetitions	   sort(sec)
+       500	        6324	    0.000158
+       600	        4674	    0.000214
+       700	        3524	    0.000284
+       800	        2702	    0.000370
+       900	        2144	    0.000466
+      1000	        1633	    0.000612
+
+	insertionSort(): sorted reversed - worst case.
+	Data will NOT be randomized before use.
+         n	 repetitions	   sort(sec)
+       500	        2361	    0.000424
+       600	        1263	    0.000792
+       700	        1629	    0.000614
+       800	        1265	    0.000791
+       900	         926	    0.001080
+      1000	         827	    0.001209
+
+	quickSort(): randomized - average case.
+	Randomized Data will be used during sorting.
+         n	 repetitions	   sort(sec)
+       500	       25606	    0.000039
+       600	       19512	    0.000051
+       700	       14855	    0.000067
+       800	       13505	    0.000074
+       900	       11708	    0.000085
+      1000	       10041	    0.000100
+
+	quickSort(): already sorted - worst case.
+	Data will NOT be randomized before use.
+         n	 repetitions	   sort(sec)
+       500	        1078	    0.000928
+       600	         746	    0.001340
+       700	         543	    0.001842
+       800	         423	    0.002366
+       900	         334	    0.002994
+      1000	         271	    0.003690

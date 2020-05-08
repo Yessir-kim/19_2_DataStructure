@@ -1,0 +1,682 @@
+# 이 viminfo 파일은 빔이 만든 것입니다 Vim 8.1.
+# 조심만 한다면 고칠 수도 있습니다!
+
+# Viminfo version
+|1,4
+
+# 이 파일이 저장되었을 때의 'encoding'의 값
+*encoding=utf-8
+
+
+# hlsearch on (H) or off (h):
+~h
+# 명령 행 히스토리 (새것부터 오래된 것 순):
+:q
+|2,0,1574746228,,"q"
+:set nu
+|2,0,1574745969,,"set nu"
+:set num
+|2,0,1574745946,,"set num"
+:set ni
+|2,0,1573976396,,"set ni"
+:Q
+|2,0,1572276297,,"Q"
+:wq
+|2,0,1570965983,,"wq"
+:qw
+|2,0,1569859732,,"qw"
+:w
+|2,0,1567649440,,"w"
+:ㅉ
+|2,0,1567648540,,"ㅉ"
+:ㅃ
+|2,0,1567648539,,"ㅃ"
+:'<,'>q
+|2,0,1567473812,,"'<,'>q"
+:1
+|2,0,1567473810,,"1"
+:.!
+|2,0,1567417308,,".!"
+:!q
+|2,0,1567417307,,"!q"
+
+# 찾을 문자열 히스토리 (새것부터 오래된 것 순):
+
+# 표현 히스토리 (새것부터 오래된 것 순):
+
+# 입력 행 히스토리 (새것부터 오래된 것 순):
+
+# 디버그 행 히스토리 (새것부터 오래된 것 순):
+
+# 레지스터:
+""-	CHAR	0
+	;
+|3,1,36,0,1,0,1570965950,";"
+
+# 파일 마크:
+'0  94  2  ~/psets/pset13/heapDriver.cpp
+|4,48,94,2,1574746228,"~/psets/pset13/heapDriver.cpp"
+'1  78  0  ~/psets/pset13/heap.cpp
+|4,49,78,0,1574745957,"~/psets/pset13/heap.cpp"
+'2  124  0  /c/GitHub/hw2/test.c
+|4,50,124,0,1573976421,"/c/GitHub/hw2/test.c"
+'3  1  0  /c/GitHub/p2/makefile
+|4,51,1,0,1573910642,"/c/GitHub/p2/makefile"
+'4  39  0  ~/psets/pset10/11.cpp
+|4,52,39,0,1573049502,"~/psets/pset10/11.cpp"
+'5  12  0  ~/psets/pset10/quicksort.cpp
+|4,53,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+'6  83  0  ~/psets/pset10/listsort.cpp
+|4,54,83,0,1572276298,"~/psets/pset10/listsort.cpp"
+'7  11  0  ~/psets/pset10/quicksort.cpp
+|4,55,11,0,1572276274,"~/psets/pset10/quicksort.cpp"
+'8  11  0  ~/psets/pset10/quicksort.cpp
+|4,56,11,0,1572276274,"~/psets/pset10/quicksort.cpp"
+'9  78  51  ~/include/listdbl.h
+|4,57,78,51,1571967858,"~/include/listdbl.h"
+
+# 점프목록 (새것이 먼저):
+-'  94  2  ~/psets/pset13/heapDriver.cpp
+|4,39,94,2,1574746228,"~/psets/pset13/heapDriver.cpp"
+-'  59  0  ~/psets/pset13/heapDriver.cpp
+|4,39,59,0,1574746228,"~/psets/pset13/heapDriver.cpp"
+-'  1  0  ~/psets/pset13/heapDriver.cpp
+|4,39,1,0,1574745967,"~/psets/pset13/heapDriver.cpp"
+-'  78  0  ~/psets/pset13/heap.cpp
+|4,39,78,0,1574745957,"~/psets/pset13/heap.cpp"
+-'  78  0  ~/psets/pset13/heap.cpp
+|4,39,78,0,1574745957,"~/psets/pset13/heap.cpp"
+-'  1  0  ~/psets/pset13/heap.cpp
+|4,39,1,0,1574745941,"~/psets/pset13/heap.cpp"
+-'  1  0  ~/psets/pset13/heap.cpp
+|4,39,1,0,1574745941,"~/psets/pset13/heap.cpp"
+-'  124  0  /c/GitHub/hw2/test.c
+|4,39,124,0,1573976421,"/c/GitHub/hw2/test.c"
+-'  124  0  /c/GitHub/hw2/test.c
+|4,39,124,0,1573976421,"/c/GitHub/hw2/test.c"
+-'  124  0  /c/GitHub/hw2/test.c
+|4,39,124,0,1573976421,"/c/GitHub/hw2/test.c"
+-'  124  0  /c/GitHub/hw2/test.c
+|4,39,124,0,1573976421,"/c/GitHub/hw2/test.c"
+-'  1  0  /c/GitHub/hw2/test.c
+|4,39,1,0,1573976389,"/c/GitHub/hw2/test.c"
+-'  1  0  /c/GitHub/hw2/test.c
+|4,39,1,0,1573976389,"/c/GitHub/hw2/test.c"
+-'  1  0  /c/GitHub/hw2/test.c
+|4,39,1,0,1573976389,"/c/GitHub/hw2/test.c"
+-'  1  0  /c/GitHub/hw2/test.c
+|4,39,1,0,1573976389,"/c/GitHub/hw2/test.c"
+-'  1  0  /c/GitHub/p2/makefile
+|4,39,1,0,1573910642,"/c/GitHub/p2/makefile"
+-'  1  0  /c/GitHub/p2/makefile
+|4,39,1,0,1573910642,"/c/GitHub/p2/makefile"
+-'  1  0  /c/GitHub/p2/makefile
+|4,39,1,0,1573910642,"/c/GitHub/p2/makefile"
+-'  1  0  /c/GitHub/p2/makefile
+|4,39,1,0,1573910642,"/c/GitHub/p2/makefile"
+-'  1  0  /c/GitHub/p2/makefile
+|4,39,1,0,1573910642,"/c/GitHub/p2/makefile"
+-'  1  0  /c/GitHub/p2/makefile
+|4,39,1,0,1573910642,"/c/GitHub/p2/makefile"
+-'  1  0  /c/GitHub/p2/makefile
+|4,39,1,0,1573910642,"/c/GitHub/p2/makefile"
+-'  1  0  /c/GitHub/p2/makefile
+|4,39,1,0,1573910642,"/c/GitHub/p2/makefile"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  39  0  ~/psets/pset10/11.cpp
+|4,39,39,0,1573049502,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  1  0  ~/psets/pset10/11.cpp
+|4,39,1,0,1573049484,"~/psets/pset10/11.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  12  0  ~/psets/pset10/quicksort.cpp
+|4,39,12,0,1572276306,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+-'  11  0  ~/psets/pset10/quicksort.cpp
+|4,39,11,0,1572276300,"~/psets/pset10/quicksort.cpp"
+
+# 파일내의 마크 히스토리 (새것부터 오래된 순):
+
+> ~/psets/pset13/heapDriver.cpp
+	*	1574746228	0
+	"	94	2
+
+> ~/psets/pset13/heap.cpp
+	*	1574745956	0
+	"	78	0
+
+> /c/GitHub/hw2/test.c
+	*	1573976419	0
+	"	124	0
+
+> /c/GitHub/p2/makefile
+	*	1573910600	0
+	"	1	0
+
+> ~/psets/pset10/11.cpp
+	*	1573049486	0
+	"	39	0
+
+> ~/psets/pset10/quicksort.cpp
+	*	1572276301	0
+	"	12	0
+
+> ~/psets/pset10/listsort.cpp
+	*	1572276297	0
+	"	83	0
+
+> ~/include/listdbl.h
+	*	1571967856	0
+	"	78	51
+
+> ~/psets/pset08/stackDriver.cpp
+	*	1571704497	0
+	"	43	0
+
+> ~/psets/pset08/stack.cpp
+	*	1570966722	0
+	"	24	0
+
+> ~/practice/11.cpp
+	*	1570965982	0
+	"	1	9
+	^	1	10
+	.	14	30
+	+	6	33
+	+	14	30
+
+> ~/practice/bubblesort.cpp
+	*	1570965937	0
+	"	2	0
+	^	2	0
+	.	10	38
+	+	21	0
+	+	6	32
+	+	7	38
+	+	6	32
+	+	11	25
+	+	17	25
+	+	20	9
+	+	7	4
+	+	8	4
+	+	10	38
+	+	16	7
+	+	7	4
+	+	8	4
+	+	16	7
+	+	10	38
+
+> ~/labs/lab02/args1.cpp
+	*	1570946491	0
+	"	26	0
+	^	26	0
+	.	26	0
+	+	14	15
+	+	19	11
+	+	30	0
+	+	26	18
+	+	28	1
+	+	29	0
+	+	28	29
+	+	29	1
+	+	28	26
+	+	29	22
+	+	27	0
+	+	31	67
+	+	26	22
+	+	29	8
+	+	31	70
+	+	28	28
+	+	31	75
+	+	31	76
+	+	35	9
+	+	18	31
+	+	28	2
+	+	29	2
+	+	31	41
+	+	29	1
+	+	28	1
+	+	31	42
+	+	34	0
+	+	31	40
+	+	33	2
+	+	31	63
+	+	31	0
+	+	33	1
+	+	32	44
+	+	33	20
+	+	14	6
+	+	26	0
+
+> ~/labs/lab01/hello4.cpp
+	*	1570946450	0
+	"	1	0
+
+> ~/labs/lab01/hello1.cpp
+	*	1570946441	0
+	"	26	0
+	^	25	0
+	.	26	0
+	+	25	2
+	+	27	0
+	+	26	0
+	+	25	25
+	+	26	0
+
+> ~/include/stack.h
+	*	1570669024	0
+	"	29	13
+	^	29	14
+	.	29	13
+	+	29	13
+
+> ~/include/stack.g
+	*	1570669014	0
+	"	1	0
+
+> /c/GitHub/Math/Makfile
+	*	1570375556	0
+	"	1	0
+
+> /c/GitHub/Math/Makefile
+	*	1570367507	0
+	"	7	21
+	^	7	22
+	.	7	14
+	+	7	14
+
+> /c/GitHub/Math/formula
+	*	1570366301	0
+	"	175	0
+
+> /c/Users/apowe/.bashrc
+	*	1569916741	0
+	"	1	0
+
+> /c/Users/apowe/.ssh/.bashrc
+	*	1569916700	0
+	"	1	0
+
+> /c/Users/apowe/.ssh/config
+	*	1569916670	0
+	"	1	0
+
+> /c/GitHub/store/test.c
+	*	1569892762	0
+	"	1	14
+	^	1	15
+	.	1	15
+	+	1	15
+
+> ~/cfile/formula_sudoku
+	*	1569859732	0
+	"	1190	26
+	.	1166	0
+	+	1166	0
+
+> ~/cfile/print.c
+	*	1569854454	0
+	"	26	0
+	.	26	0
+	+	26	0
+
+> ~/cfile/mmm
+	*	1569681477	0
+	"	42	34
+
+> ~/psets/pset03/binsearch.cpp
+	*	1569160228	0
+	"	71	4
+	^	71	5
+	.	71	5
+	+	71	5
+
+> ~/psets/pset03/recursion.cpp
+	*	1568643802	0
+	"	26	0
+	^	26	1
+	.	26	0
+	+	17	14
+	+	26	0
+
+> ~/psets/pset03/rexursion.cpp
+	*	1568643636	0
+	"	1	0
+
+> ~/psets/pset02/sortDriver2.cpp
+	*	1568634254	0
+	"	103	14
+
+> ~/psets/pset02/sortDriver1.cpp
+	*	1568633734	0
+	"	243	26
+
+> ~/labs/lab06/nowic.cpp
+	*	1568597989	0
+	"	18	0
+
+> ~/labs/lab05/quicksort.cpp
+	*	1567737681	0
+	"	46	33
+
+> ~/labs/lab05/seletion.cpp
+	*	1567737649	0
+	"	1	0
+
+> ~/labs/lab05/seletionsort.cpp
+	*	1567737643	0
+	"	1	0
+
+> ~/labs/lab05/bubble.cpp
+	*	1567737127	0
+	"	37	11
+
+> ~/labs/lab05/sort.cpp
+	*	1567736898	0
+	"	16	18
+
+> ~/labs/lab04/bubble.cpp
+	*	1567731998	0
+	"	43	0
+
+> ~/labs/lab04/lab04.md
+	*	1567686967	0
+	"	30	9
+
+> ~/labs/lab03/selection4.cpp
+	*	1567673880	0
+	"	52	2
+	^	52	3
+	.	52	3
+	+	43	7
+	+	52	3
+
+> ~/labs/lab03/selection3.cpp
+	*	1567649440	0
+	"	56	0
+	^	20	0
+	.	19	11
+	+	19	19
+	+	22	0
+	+	32	0
+	+	19	11
+
+> ~/labs/lab03/selection2.cpp
+	*	1567648640	0
+	"	28	0
+	^	54	79
+	.	54	79
+	+	50	0
+	+	53	77
+	+	54	79
+
+> ~/labs/lab03/selection1.cpp
+	*	1567647365	0
+	"	46	0
+	^	46	0
+	.	45	43
+	+	26	6
+	+	46	2
+	+	38	15
+	+	40	22
+	+	42	27
+	+	49	27
+	+	46	19
+	+	41	33
+	+	48	31
+	+	45	43
+
+> ~/labs/lab03/selection.cpp
+	*	1567646916	0
+	"	53	0
+	^	18	9
+	.	18	9
+	+	16	0
+	+	18	25
+	+	24	0
+	+	34	1
+	+	18	9
+
+> ~/labs/lab03/selectio.cpp
+	*	1567646891	0
+	"	1	0
+
+> ~/labs/lab01/lab01.md
+	*	1567604151	0
+	"	17	0
+
+> ~/labs/lab02/lab02.md
+	*	1567517242	0
+	"	24	0
+
+> ~/labs/lab02/args.cpp
+	*	1567516947	0
+	"	1	0
+
+> ~/labs/lab03/lab03.md
+	*	1567494879	0
+	"	161	0
+
+> ~/labs/lab02/args2.cpp
+	*	1567474763	0
+	"	35	30
+	^	35	31
+	.	35	29
+	+	14	15
+	+	20	11
+	+	33	2
+	+	34	2
+	+	36	0
+	+	35	34
+	+	15	40
+	+	35	29
+
+> ~/labs/lab02/print_strs2.cpp
+	*	1567474718	0
+	"	15	10
+	^	15	11
+	.	15	10
+	+	6	15
+	+	6	39
+	+	7	1
+	+	9	7
+	+	7	18
+	+	10	46
+	+	10	1
+	+	10	40
+	+	10	1
+	+	10	26
+	+	10	4
+	+	10	1
+	+	10	26
+	+	10	29
+	+	2	16
+	+	10	1
+	+	14	10
+	+	10	0
+	+	7	1
+	+	9	0
+	+	7	5
+	+	8	0
+	+	9	7
+	+	16	0
+	+	6	15
+	+	12	15
+	+	15	10
+
+> ~/labs/lab01/hello6.cpp
+	*	1567424340	0
+	"	21	0
+
+> ~/labs/lab01/print_strs.cpp
+	*	1567424309	0
+	"	13	7
+	^	13	14
+	.	13	14
+	+	13	14
+
+> ~/02ArgcArgv.md
+	*	1567417971	0
+	"	14	45
+
+> ~/labs/lab01/1123123.cpp
+	*	1567417418	0
+	"	1	0
+
+> ~/01GettingStarted.md
+	*	1567417214	0
+	"	17	26
+
+> ~/labs/lab01/lab01.cd
+	*	1567391286	0
+	"	1	0
+
+> ~/labs/lab01/lab01
+	*	1567391281	0
+	"	1	0
+
+> ~/README.md
+	*	1567152260	0
+	"	7	0
